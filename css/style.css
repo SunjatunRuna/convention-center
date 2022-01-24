@@ -1,0 +1,44 @@
+/*************************
+    font-style
+    ***********************************/
+@import url('https://fonts.googleapis.com/css2?family=Mochiy+Pop+P+One&family=Poppins:wght@200;300&display=swap');
+
+body{
+    font-family: 'Mochiy Pop P One', sans-serif;
+    font-family: 'Poppins', sans-serif !important;
+}
+.text-gray{
+    color: #2A2A2A !important;
+}
+.navbar-gray{
+    color: #2A2A2A !important;
+}
+.text-center{
+    text-align: center !important;
+}
+.list-type{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+.fa-star{
+    color: orange;
+    font-size: 9px;
+}
+.align{
+    text-align: center !important;
+}
+.bg-orange{
+    background-color: #FF4E4E !important;
+}
+
+/************************
+    footer section
+    ********************************
+.bg-black{
+    background-color: #0B0D17 !important;
+}
+.text-uppercase{
+    text-transform: uppercase !important;
+    padding-left: 6px;
+}
