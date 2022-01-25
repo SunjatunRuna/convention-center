@@ -34,6 +34,12 @@ body{
 .bg{
     background-color: transparent !important;
 }
+/************************
+    form-background
+    *******************************/
+input{
+    border: 1px solid #9B99AC;
+}
 
 /************************
     footer section
