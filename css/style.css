@@ -34,6 +34,9 @@ body{
 .bg{
     background-color: transparent !important;
 }
+.align-items{
+    text-align: end !important;
+}
 /************************
     form-background
     *******************************/
