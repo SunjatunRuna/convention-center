@@ -31,6 +31,9 @@ body{
 .bg-orange{
     background-color: #FF4E4E !important;
 }
+.bg{
+    background-color: transparent !important;
+}
 
 /************************
     footer section
