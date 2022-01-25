@@ -16,6 +16,7 @@ body{
 .text-center{
     text-align: center !important;
 }
+/********list decoration******/
 .list-type{
     list-style-type: none;
     margin: 0;
@@ -31,11 +32,9 @@ body{
 .bg-orange{
     background-color: #FF4E4E !important;
 }
+/********card background******/
 .bg{
     background-color: transparent !important;
-}
-.align-items{
-    text-align: end !important;
 }
 /************************
     form-background
@@ -44,13 +43,3 @@ input{
     border: 1px solid #9B99AC;
 }
 
-/************************
-    footer section
-    ********************************
-.bg-black{
-    background-color: #0B0D17 !important;
-}
-.text-uppercase{
-    text-transform: uppercase !important;
-    padding-left: 6px;
-}
